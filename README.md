@@ -3,6 +3,9 @@
 A **custom-built CGPA & GPA Calculator** designed specifically for my university’s **unique grading system** — built using **HTML, CSS, and JavaScript**.  
 Unlike generic calculators using the A+, A, A− system, this tool supports the grading scale **A, B+, B, ..., D, F**, providing **accurate GPA and CGPA calculations** for all students.
 
+<img width="1906" height="910" alt="image" src="https://github.com/user-attachments/assets/fcc5af0d-9eb2-47ab-b7ca-a4a38c370041" />
+<img width="1904" height="913" alt="image" src="https://github.com/user-attachments/assets/ad2e10e8-d641-4b3c-aa46-8b50226c0767" />
+
 ---
 
 ## ✨ Features
